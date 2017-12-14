@@ -1,0 +1,28 @@
+body{
+  background-color: #dedee0
+}
+ .head  {
+  padding-left: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: arial;
+  background-color: white;
+  border-style: solid ;
+  border-color: white;
+}
+.head p{
+  color: #6a6a7a
+
+
+}
+
+.mel1  {
+  position: relative;
+  bottom: 50px;
+  padding-left: 10px;
+  margin-left: 90px;
+  margin-right: 100px;
+
+
+
+}
