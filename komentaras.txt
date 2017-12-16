@@ -1,0 +1,2 @@
+Pagal uþduoèiø apraðymà turëtø bûti katalogas pagal uþduoties numeriukà.
+Uþduotis su rûgðèiø skale: rekomenduoju neraðyti stiliaus elementuose. Rekomenduoju iðkelti elementus á <style> elementà arba á atskirà css failà.
